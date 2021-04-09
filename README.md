@@ -10,6 +10,6 @@
 
 ---
 
-👀 I’m interested in Python, HTML, CSS, JavaScript, GDScript, C, Perl, Lisp, Forth, Pascal, 6502 Assembly, HyperTalk, and Malbolge.  
+👀 I’m interested in Python, HTML, CSS, JavaScript, GDScript, Processing, C, Perl, Lisp, Forth, Pascal, 6502 Assembly, HyperTalk, and Malbolge.  
   
 🌱 I’m always learning everything.  
