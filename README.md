@@ -1,6 +1,6 @@
 # Hi! I’m @redandgreenspark! ⚡
 
-🕹️ *Dabbling developer*  
+🕹️ *Dabbling game developer*  
 🖋️ *Intermittent cartoonist*  
 ✏️ *Incipient wordsmith*  
 📐 *Latent designer*  
